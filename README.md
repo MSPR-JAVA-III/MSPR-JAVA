@@ -1,5 +1,4 @@
 # MSPR-JAVA
-MSPR-JAVA
 
 ## A faire 
 1. Environnement de dev Android 
